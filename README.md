@@ -13,5 +13,57 @@
   
 **ai-jiraphinya** is a ✨ _special_ ✨ repository สร้างด้วย `README.md` รายการสินค้าดิจิตัล
 ---
-<h3>HTML</h3>
-<p> Some HTML code here </p>
+
+<details>
+<summary>ชุด 1</summary>
+
+เนื้อหาของชุด 1
+
+</details>
+
+<details>
+<summary>ชุด 2</summary>
+
+เนื้อหาของชุด 2
+
+</details>
+<details>
+<summary>ชุด 1</summary>
+
+เนื้อหาของชุด 1
+
+</details>
+
+<details>
+<summary>ชุด 2</summary>
+
+เนื้อหาของชุด 2
+
+</details>
+
+<details>
+<summary>ชุด 1</summary>
+
+เนื้อหาของชุด 1
+
+</details>
+
+<details>
+<summary>ชุด 2</summary>
+
+เนื้อหาของชุด 2
+
+</details>
+<details>
+<summary>ชุด 1</summary>
+
+เนื้อหาของชุด 1
+
+</details>
+
+<details>
+<summary>ชุด 2</summary>
+
+เนื้อหาของชุด 2
+
+</details>
