@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋ยินดีต้อนรับ
 
 <!--
 **ai-jiraphinya/ai-jiraphinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
