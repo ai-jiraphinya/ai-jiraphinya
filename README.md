@@ -8,10 +8,12 @@
 </p>
 
 ---
-<!--
-**ai-jiraphinya/ai-jiraphinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"
+---
 
-Here are some ideas to get you started:
+**ai-jiraphinya/ai-jiraphinya** is a ✨ _special_ ✨ repository because its `README.md` รายการสินค้าดิจิตัล
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
