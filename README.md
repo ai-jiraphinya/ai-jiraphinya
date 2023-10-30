@@ -7,12 +7,9 @@
   </a>
 </p>
 
----
-<p align="center">
-</p>
-  
-*ai-jiraphinya* ✨ _special_ ✨ สินค้าพิเศษ
----
+### <p align="center">ai-jiraphinya ✨ special ✨ สินค้าพิเศษ
+
+
 
 <details>
 <summary>ชุด 1</summary>
@@ -47,4 +44,4 @@
 เนื้อหาของชุด 5
 
 </details>
-
+---
