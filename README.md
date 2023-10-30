@@ -11,7 +11,7 @@
 <p align="center">
 </p>
   
-*ai-jiraphinya  is a* ✨ _special_ ✨ *repository สร้างด้วย* `README.md` รายการสินค้าดิจิตัล
+*ai-jiraphinya  is a* ✨ _special_ ✨ *repository สร้างด้วย `README.md` รายการสินค้าดิจิตัล
 ---
 
 <details>
