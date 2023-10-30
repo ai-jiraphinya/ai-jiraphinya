@@ -28,42 +28,23 @@
 
 </details>
 <details>
-<summary>ชุด 1</summary>
+<summary>ชุด 3</summary>
 
-เนื้อหาของชุด 1
-
-</details>
-
-<details>
-<summary>ชุด 2</summary>
-
-เนื้อหาของชุด 2
+เนื้อหาของชุด 3
 
 </details>
 
 <details>
-<summary>ชุด 1</summary>
+<summary>ชุด 4</summary>
 
-เนื้อหาของชุด 1
-
-</details>
-
-<details>
-<summary>ชุด 2</summary>
-
-เนื้อหาของชุด 2
-
-</details>
-<details>
-<summary>ชุด 1</summary>
-
-เนื้อหาของชุด 1
+เนื้อหาของชุด 4
 
 </details>
 
 <details>
-<summary>ชุด 2</summary>
+<summary>ชุด 5</summary>
 
-เนื้อหาของชุด 2
+เนื้อหาของชุด 5
 
 </details>
+
