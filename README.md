@@ -8,38 +8,36 @@
 </p>
 
 ---
-<p align="center"
----
+<p align="center">
+</p>
   
 **ai-jiraphinya** is a ✨ _special_ ✨ repository สร้างด้วย `README.md` รายการสินค้าดิจิตัล
 ---
 
-<p align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>หัวเรื่อง 1</th>
-        <th>หัวเรื่อง 2</th>
-        <th>หัวเรื่อง 3</th>
-        <th>หัวเรื่อง 4</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>เนื้อหา 1</td>
-        <td>เนื้อหา 2</td>
-        <td>เนื้อหา 3</td>
-        <td>เนื้อหา 4</td>
-      </tr>
-      <tr>
-        <td>เนื้อหา 1</td>
-        <td>เนื้อหา 2</td>
-        <td>เนื้อหา 3</td>
-        <td>เนื้อหา 4</td>
-      </tr>
-    </tbody>
-  </table>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>หัวเรื่อง 1</th>
+      <th>หัวเรื่อง 2</th>
+      <th>หัวเรื่อง 3</th>
+      <th>หัวเรื่อง 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>เนื้อหา 1</td>
+      <td>เนื้อหา 2</td>
+      <td>เนื้อหา 3</td>
+      <td>เนื้อหา 4</td>
+    </tr>
+    <tr>
+      <td>เนื้อหา 1</td>
+      <td>เนื้อหา 2</td>
+      <td>เนื้อหา 3</td>
+      <td>เนื้อหา 4</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
