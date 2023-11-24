@@ -1,4 +1,4 @@
-### <p align="center">💖 ร้านเล็กๆของหนู :  MyLittleWebShop
+### <p align="center">💖 พื้นที่เล็กๆของหนู :  MyLittleWebShop
 ---
 
 <p align="center">
