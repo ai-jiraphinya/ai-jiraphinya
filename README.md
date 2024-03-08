@@ -15,6 +15,7 @@
 <p align="center">
   <a aria-label="Join the community on Slack" href="https://mtify.hashnode.dev">
     <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
+  </a>
   <a aria-label="Join the on Telegram" href="https://ai-jiraphinya.github.io">
     <img alt="" src="https://img.shields.io/badge/Mint_-Github.io-red">
   </a>
