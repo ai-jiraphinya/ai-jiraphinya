@@ -16,7 +16,7 @@
   <a aria-label="Join the community on Slack" href="https://mtify.hashnode.dev">
     <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
   </a>
-  <a aria-label="Join the on Telegram" href="angular-movies-a12d3.web.app">
+  <a aria-label="angular-movies-a12d3.web.app" href="https://angular-movies-a12d3.web.app">
     <img alt="" src="https://img.shields.io/badge/Mint_-Github.io-red">
   </a>
   <a aria-label="Join the on Telegram" href="https://t.me/MintChatAI">
