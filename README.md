@@ -42,7 +42,16 @@ https://mtify.hashnode.dev/
     <img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707950458022/9df4518d-5965-4179-8ea0-709300f11721.png?auto=compress,format&amp;format=webp" alt="" class="image--center mx-auto">
   </a>
 -->
-## Deploy
+## support/จ้างงาน.
+
+```bash
+ปรีดิ์ปราโมทย์ เวชบุตร กสิกรไทย 110-8-257470
+```
+
+```bash
+ส่งข้อความ หมายเลข 096-3346517 มิ้นน้อย
+```
+
 ### Deploy Netlify No`OPENAI_KEY`No AI
 [![Netlify Status](https://api.netlify.com/api/v1/badges/559f1db1-f20e-4ab7-97a7-7091711e466c/deploy-status)](https://app.netlify.com/sites/document-search/deploys)
 </br>
