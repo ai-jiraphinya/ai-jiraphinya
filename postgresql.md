@@ -24,15 +24,15 @@ code ทั้งหมดนี้โดย จิรภิญญา เวช�
 
 ## **การติดตั้ง PostgreSQL**
 
-### การติดตั้ง PostgreSQL บนระบบปฏิบัติการ Windows 10
+### การติดตั้ง PostgreSQL บนระบบปฏิบัติการ Windows 10 
 
-ดาวน์โหลด PostgreSQL Installer
+ดาวน์โหลด PostgreSQL Installer Version 16
 
-1. * URL: [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
+1. * URL: [https://www.postgresql.org/download/windows/](https://www.postgresql.org/download/windows/)
         
 
 ```bash
-wget https://get.enterprisedb.com/postgresql/postgresql-14.2-1-windows-x64.exe
+wget https://get.enterprisedb.com/postgresql/postgresql-14.2-1-windows-x64.exe การต้องการตัวเก่า
 ```
 
 เชื่อมต่อกับ PostgreSQL ผ่านทาง Command Line Interface (CLI)
