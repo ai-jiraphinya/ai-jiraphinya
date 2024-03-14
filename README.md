@@ -42,14 +42,15 @@ https://mtify.hashnode.dev/
     <img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707950458022/9df4518d-5965-4179-8ea0-709300f11721.png?auto=compress,format&amp;format=webp" alt="" class="image--center mx-auto">
   </a>
 -->
-## support/จ้างงาน.
+### support/จ้างงาน FRONT END , BACK END: สนับสนุนทุนการศึกษา/ชานมเย็นสักแก้ว 35 บาท
 
 ```bash
-ปรีดิ์ปราโมทย์ เวชบุตร กสิกรไทย 110-8-257470
+บัญชีพี่มิว ปรีดิ์ปราโมทย์ เวชบุตร กสิกรไทย 110-8-25747-0
+บัญชีเเม่ สุมาลี วงค์ศรีชา กสิกรไทย 121-3-84931-6 บัญชีเเม่
 ```
 
 ```bash
-ส่งข้อความ หมายเลข 096-3346517 มิ้นน้อย
+ส่งข้อความให้กำลังใจ หมายเลข 096-3346517 มิ้นน้อย
 ```
 
 ### Deploy Netlify No`OPENAI_KEY`No AI
@@ -210,3 +211,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 <a rel="me" href="https://mastodon.social/@Jiraphinya">Mastodon</a>
 -->
+
+### จ้างงาน FRONT END , BACK END: 
+- วิทยาศาสตร์ข้อมูล,เทรน,สร้าง Model เเบบกำหนดเอง ทั้ง Local,online,firebase aws tmbd-api movies
+- Bayesian Neural Network ฯ
+- เพราะไม่ใช่คนเก่งอะไร เพียงอยากเเสวงหาความรู้เเลกเปลี่ยน เเบ่งปัน ราคางาน เริ่มต้นจึงเเค่ 300 บาท
