@@ -208,7 +208,7 @@ COPY student FROM 'path/to/mydata.csv' WITH CSV HEADER;
 CSS (styles.css):
 
 ```css
-cssCopy codebody {
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -299,7 +299,7 @@ CSS (styles.css)
 CDN เป็นวิธีที่ดีเพื่อให้เว็บไซต์ หลดและแสดงผลเนื้อหาให้ดูดี พี่สามารถเพิ่ม CSS เพื่อใช้งาน Web font แบบ woff2 จาก CDN ได้โดยเพิ่มรหัสดังนี้ในไฟล์ styles.css: เช่น
 
 ```css
-cssCopy code/* ตัวอย่างการเรียกใช้งาน Web font แบบ woff2 จาก CDN */
+/* ตัวอย่างการเรียกใช้งาน Web font แบบ woff2 จาก CDN */
 @import url('https://fonts.googleapis.com/css2?family=YourFontFamily:wght@400;700&display=swap');
 
 /* ใช้งาน Web font ในตัวอักษร */
@@ -313,7 +313,7 @@ body {
 สำหรับ PHP (get-student-data.php) ที่ใช้สำหรับดึงข้อมูลจากฐานข้อมูล PostgreSQL คุณสามารถใช้รหัส PHP เพื่อเชื่อมต่อกับฐานข้อมูลและดึงข้อมูลออกมาได้ ตัวอย่างเช่น:
 
 ```php
-phpCopy code<?php
+<?php
 // กำหนดข้อมูลการเชื่อมต่อฐานข้อมูล PostgreSQL
 $host = "your_host";
 $dbname = "your_database";
