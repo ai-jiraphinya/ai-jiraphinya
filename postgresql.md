@@ -343,8 +343,6 @@ echo json_encode(['students' => $students]);
 
 จากโค้ด `@font-face rule` ด้านบน ถ้า web browser ไหนรองรับ WOFF 2.0 แล้ว มันก็จะเลือกเอาแบบ WOFF 2.0 ไปใช้แทน WOFF 1.0 ครับ เพียงเท่านี้เว็บเราก็จะโหลดเร็วขึ้นอีกนิดนึง ถึงแม้จะไม่มากนัก แต่ก็เร็วกว่าไม่ได้ทำแน่นอน
 
-cssCopy code/\* การเรียกใช้งาน Web font แบบ woff2 ภาษาท้องถิ่น \*/ @font-face { font-family: 'YourFontFamily'; src: url('your\_font\_file.woff2') format('woff2'); /\* กรณีที่คุณมีไฟล์ Web font แบบ woff2 ในโฟลเดอร์เดียวกับ CSS \*/ /\* หรือเป็น URL ของไฟล์ Web font แบบ woff2 ที่คุณต้องการเรียกใช้ \*/ } /\* ใช้งาน Web font ในตัวอักษร \*/ body { font-family: 'YourFontFamily', sans-serif; }
-
 ---
 
 อีกเเบบหนึ่ง เชื่อมต่อกับ PostgreSQL:
