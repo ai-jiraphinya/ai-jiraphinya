@@ -42,8 +42,7 @@ https://mtify.hashnode.dev/
     <img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707950458022/9df4518d-5965-4179-8ea0-709300f11721.png?auto=compress,format&amp;format=webp" alt="" class="image--center mx-auto">
   </a>
 -->
-### support/จ้างงาน FRONT END , BACK END: สนับสนุนทุนการศึกษา/ชานมเย็นสักแก้ว 35 บาท
-
+### support/จ้างงาน FRONT END , BACK END: สนับสนุนทุนการศึกษา/ชานมเย็นสักแก้ว
 ```bash
 บัญชีพี่มิว ปรีดิ์ปราโมทย์ เวชบุตร กสิกรไทย 110-8-25747-0
 บัญชีเเม่ สุมาลี วงค์ศรีชา กสิกรไทย 121-3-84931-6 บัญชีเเม่
