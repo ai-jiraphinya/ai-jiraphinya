@@ -17,7 +17,7 @@
     <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
   </a>
   <a aria-label="angular-movies-a12d3.web.app" href="https://angular-movies-a12d3.web.app">
-    <img alt="" src="https://img.shields.io/badge/Mint_-Github.io-red">
+    <img alt="" src="https://img.shields.io/badge/Mint_-angularmovies-red">
   </a>
   <a aria-label="Join the on Telegram" href="https://t.me/MintChatAI">
     <img alt="" src="https://img.shields.io/badge/Telegram_-%40Mint-%2326A5E4?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2FMintChatAI">
